@@ -1,1 +1,1 @@
-# Interview Study on Machine Learning Interpreetability
+# Interview Study on Machine Learning Interpretability
