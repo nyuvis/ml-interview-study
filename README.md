@@ -66,7 +66,7 @@ Proc. ACM Hum.-Comput. Interact.4, CSCW1, Article 311 (May 2020), 26 pages. http
 
 ### APPENDIX
 
-## Participants list
+#### Participants list
 
 | PID | Company Domain | Job title and role | Domain problems |
 | :-- | :----------------- | :-------------------------------- | -------------------------------------------- |
@@ -93,6 +93,6 @@ Proc. ACM Hum.-Comput. Interact.4, CSCW1, Article 311 (May 2020), 26 pages. http
 | P21 | Software | Principal Design Manager (UX) | Best images selection, transcription |
 | P22 | Healthcare | Senior Data Scientist (DS) | Care management/resource utilization |
 
-## Interview protocol
+#### Interview protocol
 
 For the interviews we used a [common set of slides](interview-protocol-slides.pdf) that we shared with the participants to follow a common script across all the interviews. If you need more information about the procedure please send a message to the authors.
